@@ -1,2 +1,2 @@
 # CineReact
- Site desenvolvido no curso de React - Hora de Codar. PROJETO DE FILMES COM REACT E API DO TMDB (REACT ROUTER, REACT HOOKS)
+### Projeto com React, consumindo a API do TMDB (filmes), utilizando hooks e React Router, criado com Vite. Curso - Hora de Codar.
